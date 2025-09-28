@@ -17,4 +17,4 @@ O objetivo foi desenvolver uma estratégia de segurança pragmática e faseada, 
 * Soluções Recomendadas: ModSecurity (WAF), Wazuh (SIEM), Fail2ban, MFA.
 
 ---
-*Este projeto foi desenvolvido por Marco Aurélio como parte da sua pós-graduação em Cibersegurança.*
+*Este projeto foi desenvolvido por Marco Aurélio para o curso de Cibersegurança da Vai na Web e reflete os conhecimentos adquiridos na sua atual pós-graduação em Cibersegurança.*
